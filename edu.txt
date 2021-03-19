@@ -1,0 +1,6 @@
+자바
+-객체지향언어이다.
+- WORA(Write Once Run Aaywhere)
+	- JVM(Java Virtual Machine)
+
+- 
